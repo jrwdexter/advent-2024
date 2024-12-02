@@ -1,6 +1,6 @@
 # Advent of Code 2024
 
-This is my personal repo for some advent of code shenanigans. Just trying a few, we'll see if I finish it out.
+This is my personal repo for some [advent of code](https://adventofcode.com/2024) shenanigans. Just trying a few, we'll see if I finish it out.
 
 ## Requirements
 
@@ -9,7 +9,7 @@ Right now, my answers are built in Python. I'm using a simple virtualenv with a 
 ### Setting up Virtualenv
 
 #### Option 1 - Using Direnv (Recommended)
-If you have [Direnv]() installed, just `direnv allow` in this root directory, and the virtual environment should be created for you.
+If you have [Direnv](https://github.com/direnv/direnv) installed, just `direnv allow` in this root directory, and the virtual environment should be created for you.
 
 #### Option 2 - Manually
 Simply run:
